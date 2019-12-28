@@ -1,0 +1,8 @@
+﻿Digite o nome de sua pista dentro de LISTA para adicioná-la ao menu
+Maximo de 30 chars no nome da pista
+Máximo de 9 pistas
+
+;LISTA
+Pista 1
+ELEFANTE
+;

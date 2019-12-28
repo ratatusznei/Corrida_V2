@@ -1,0 +1,72 @@
+;MENUPRINCIPAL
+Menu Principal
+
+Selecione uma opção:
+	(1) Iniciar novo jogo
+	(2) Recuperar Jogo Salvo
+	(3) Opções
+	(4) Ajuda
+	(5) Sobre
+
+	(0) Fechar jogo
+;MENUSOBRE
+Sobre:
+
+	"Sample Racing"
+	Versão: ;
+	Início do Projeto: 18/10/2016
+	Útima modificação: ;
+
+	Jogo desenvolvido como projeto para a disciplina de
+	Linguagem de Programação (EL07C), turma M12
+
+	Professor orientador: Valfredo Pilla Jr.
+	Autor: Fernando Henrique Ratusznei Caetano
+
+;MENUAJUDA
+Ajuda:
+Seleione um tóico:
+	(1) Regras
+	(2) Controles
+
+	(0) Voltar ao Menu Principal
+;BOATLORE
+Você escolheu o barco da terra!
+
+		Há muito tempo trabalha em jogos de batalha naval
+	como destroyer, contudo estava insatisfeito com seu plano
+	dentáio e fugiu para tentar carreira como um navio de
+	turismo, assim como seu primo. Após a morte de um amigo
+	que trabalhava com ele, desistiu de sua carreira e entrou
+	no mundo das corridas ilícitas
+
+	(C) Confirmar?
+;CONTROLES
+Controles:
+	
+	Para controlar seu carro basta digitar o comando e apertar Enter
+	A caixa das letras não faz diferença
+
+	Comando	Instrução
+Jog. 1	W	Sobe
+	S	Desce
+	D	Acelera
+
+Jog. 2	I	Sobe
+	M	Desce
+	L	Acelera
+
+;MENUOPCOES
+Opções:
+
+
+	(1) Alterar a cor das letras para os jogadores ;
+	(2) Modo Noturno ;
+	(3) Alterar Idioma ;
+	
+	(0) Voltar
+;SELPISTA
+Seleção de Pistas:
+
+Escolha uma pista para correr:
+;

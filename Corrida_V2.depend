@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1481025950 source:c:\users\fernandohenrique\desktop\ling_program\corrida_v2\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"consts.h"
+
+1481104511 source:c:\users\fernandohenrique\desktop\ling_program\corrida_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"files.h"
+	"func.h"
+	"in_out.h"
+	"player.h"
+	"consts.h"
+
+1481025988 c:\users\fernandohenrique\desktop\ling_program\corrida_v2\func.h
+
+1481069819 source:c:\users\fernandohenrique\desktop\ling_program\corrida_v2\in_out.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+	"consts.h"
+	"player.h"
+
+1477237196 source:c:\users\fernandohenrique\desktop\ling_program\corrida_v2\math_vector.c
+
+1481074433 source:c:\users\fernandohenrique\desktop\ling_program\corrida_v2\player.c
+	"consts.h"
+	"func.h"
+
+1481068569 c:\users\fernandohenrique\desktop\ling_program\corrida_v2\player.h
+	"consts.h"
+
+1479221565 source:c:\users\daeln\desktop\corrida_v2\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"consts.h"
+
+1478341866 source:c:\users\daeln\desktop\corrida_v2\in_out.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+	"consts.h"
+
+1477233596 source:c:\users\daeln\desktop\corrida_v2\math_vector.c
+
+1479302032 source:c:\users\daeln\desktop\corrida_v2\player.c
+	"consts.h"
+
+1479301882 source:c:\users\daeln\desktop\corrida_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"files.h"
+	"func.h"
+	"in_out.h"
+	"player.h"
+	"consts.h"
+
+1479221222 c:\users\daeln\desktop\corrida_v2\func.h
+
+1479302036 c:\users\daeln\desktop\corrida_v2\player.h
+
+1478178896 source:c:\users\fernandohenrique\desktop\corrida_v2\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"consts.h"
+
+1478345466 source:c:\users\fernandohenrique\desktop\corrida_v2\in_out.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+	"consts.h"
+
+1477237196 source:c:\users\fernandohenrique\desktop\corrida_v2\math_vector.c
+
+1478447002 source:c:\users\fernandohenrique\desktop\corrida_v2\player.c
+	"consts.h"
+
+1478733404 source:c:\users\fernandohenrique\desktop\corrida_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"files.h"
+	"func.h"
+	"in_out.h"
+	"player.h"
+	"consts.h"
+
+1478176378 c:\users\fernandohenrique\desktop\corrida_v2\func.h
+
+1478731413 c:\users\fernandohenrique\desktop\corrida_v2\player.h
+
+1481025045 source:c:\users\fernandohenrique\desktop\ling_program\corrida_v2\files.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"consts.h"
+	"player.h"
+	"func.h"
+
+1479654626 c:\users\fernandohenrique\desktop\ling_program\corrida_v2\files.h
+	"player.h"
+
+1481069435 c:\users\fernandohenrique\desktop\ling_program\corrida_v2\in_out.h
+	"consts.h"
+
+1478114590 source:c:\users\fernandohenrique\desktop\ling_program\corrida_v2\vehicle.c
+
+1481067773 c:\users\fernandohenrique\desktop\ling_program\corrida_v2\consts.h
+
+1479301035 source:c:\users\daeln\desktop\corrida_v2\files.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"consts.h"
+
+1479221889 c:\users\daeln\desktop\corrida_v2\consts.h
+
+1479301040 c:\users\daeln\desktop\corrida_v2\files.h
+
+1479160710 c:\users\daeln\desktop\corrida_v2\in_out.h
+	"consts.h"
+
+1478341467 source:c:\users\daeln\desktop\corrida_v23\files.c
+	<stdio.h>
+	<stdlib.h>
+	"consts.h"
+
+1478690709 c:\users\daeln\desktop\corrida_v23\consts.h
+
+1478175296 source:c:\users\daeln\desktop\corrida_v23\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"consts.h"
+
+1478341866 source:c:\users\daeln\desktop\corrida_v23\in_out.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+	"consts.h"
+
+1478172778 c:\users\daeln\desktop\corrida_v23\func.h
+
+1478693120 source:c:\users\daeln\desktop\corrida_v23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	<time.h>
+	"files.h"
+	"func.h"
+	"in_out.h"
+	"player.h"
+	"consts.h"
+
+1478122507 c:\users\daeln\desktop\corrida_v23\files.h
+	"consts.h"
+
+1478341862 c:\users\daeln\desktop\corrida_v23\in_out.h
+
+1478443395 c:\users\daeln\desktop\corrida_v23\player.h
+
+1478443402 source:c:\users\daeln\desktop\corrida_v23\player.c
+	"consts.h"
+
+1478733282 source:c:\users\fernandohenrique\desktop\corrida_v2\files.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"consts.h"
+
+1478731798 c:\users\fernandohenrique\desktop\corrida_v2\consts.h
+
+1478732880 c:\users\fernandohenrique\desktop\corrida_v2\files.h
+	"consts.h"
+
+1478345462 c:\users\fernandohenrique\desktop\corrida_v2\in_out.h
+

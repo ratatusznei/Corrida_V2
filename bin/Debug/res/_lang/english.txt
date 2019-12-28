@@ -1,0 +1,73 @@
+﻿;MENUPRINCIPAL
+Main Menu:
+
+Select an option:
+	(1) New Game
+	(2) Load Game
+	(3) Options
+	(4) Help
+	(5) About
+
+	(0) Close Game
+;MENUSOBRE
+About:
+
+	"Sample Racing"
+	Version: ;
+	Project start: 18/10/2016
+	Last modified: ;
+
+	Game developed as a project for the discipline
+	"Linguagem de Programação (EL07C)", class M12
+
+	Teacher Advisor: Valfredo Pilla Jr.
+	Author: Fernando Henrique Ratusznei Caetano
+
+;MENUAJUDA
+Help:
+Select a topic:
+	(1) Rules
+	(2) Controls
+
+	(0) Back to Main Menu
+;BOATLORE
+You chose the boat of the earth!
+
+	//Google translate here!
+		Long works in naval battle games
+	as destroyer, but was dissatisfied with his plan
+	dental and fled to try career as a ship
+	tourism, as well as his cousin. After the death of a friend
+	who worked with him, he gave up his career and entered
+	in the world of illegal racing
+
+	(C) Confirm?
+;CONTROLES
+Controls:
+	
+	To control your car just type the command and then the ENTER key
+	The letters' case doesn't mater
+
+	Command	Instruction
+Jog. 1	W	Up
+	S	Down
+	D	Accelerates
+
+Jog. 2	I	Up
+	M	Down
+	L	Accelerates
+
+;MENUOPCOES
+Options:
+
+
+	(1) Change the font color for the players ;
+	(2) Night Mode ;
+	(3) Change Language ;
+	
+	(0) Back
+;SELPISTA
+Track choice:
+
+Chosse a track to race:
+;

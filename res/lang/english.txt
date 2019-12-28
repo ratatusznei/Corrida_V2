@@ -1,0 +1,139 @@
+﻿;MENUPRINCIPAL
+Main Menu:
+
+Select an option:
+	(1) New Game
+	(2) Load Game
+	(3) Options
+	(4) Help
+	(5) About
+
+	(0) Close Game
+;MENUSOBRE
+About:
+
+	"Corrida Legal V2"
+	Version: ;
+	Project start: 18/10/2016
+	Last modified: ;
+
+	Game developed as a project for the discipline
+	"Linguagem de Programação (EL07C)", class M12
+
+	Teacher Advisor: Valfredo Pilla Jr.
+	Author: Fernando Henrique Ratusznei Caetano
+
+;MENUAJUDA
+Help:
+
+Select a topic:
+	(1) Rules
+	(2) Controls
+	(3) Track creation
+
+	(0) Back to Main Menu
+;REGRAS
+Rules:
+
+	A group of runners was put together for the biggest run of every day!
+	You can guide one of the 6 runners in this adventure by simply selecting
+	"Start new game" in the start menu and be amazed at the possibilities!
+
+	The race has a total of 3 laps, whenever a
+	Finish line it passes to the next turn.
+
+	But a warning before you start: be careful, since the combustivel used is
+	Highly unstable and explodes on contact with walls or if it is wet.
+
+	More information on "Controls" in the Help menu
+
+;CONTROLES
+Controls:
+	
+	To control your car just type the command and then the ENTER key
+	The letters' case doesn't mater
+
+	Command	Instruction
+Jog. 1	W	Up
+	S	Down
+	D	Accelerates
+
+Jog. 2	I	Up
+	M	Down
+	L	Accelerates
+
+	Y	Save Game
+	B	Back
+
+;CRIARPISTA
+
+Track Creation:
+
+	In the res / materials folder, follow the Track 1.txt template
+	The file can be created in res / user / user_tracks
+	The labels must be in HIGH BOX
+	Add the track name in the list within the tracks.txt file
+
+;BOATLORE
+Selection of vehicles:
+
+You chose the boat of the earth!
+
+		Long works in naval battle games
+	as destroyer, but was dissatisfied with his plan
+	dental and fled to try career as a ship
+	tourism, as well as his cousin. After the death of a friend
+	who worked with him, he gave up his career and entered
+	in the world of illegal racing
+
+	(C) Confirm?
+;MOTOLORE
+Selection of vehicles:
+
+You chose the light bike!
+
+		After countless years working under the tyranny of the program
+	Master control in the grid, this program decided to escape and enter the
+	Life of crime. After assaulting a bank he ended up by accident
+	On the run and money is still falling out of your trunk. Do not
+	Do not worry, you will not have paper soiling the floor for
+	The onlookers will pick it up in seconds!
+
+	Special: Leaves a trail of money blocking the path
+
+	(C) Confirm?
+;BRUXALORE
+Selection of vehicles:
+
+You chose the witch!
+
+		Cookie, the witch, lived happily in her enchanted forest,
+	Delivering poisoned maces, enfeiting travelers, and preparing
+	Potions in his cauldron. However, one day she was hit by a
+	Home and since then he's having this crazy dream where he's
+	Enslaved and forced to run against other people for
+	Entertainment of the oppressive elite.
+
+	Special: Take a boost with the air currents marked by '>'
+
+	(C) Confirm?
+;MENUOPCOES
+Options:
+
+
+	(1) Change the font color for the players ;
+	(2) Night Mode ;
+	(3) Change Language ;
+	
+	(0) Back
+;SELPISTA
+Track choice:
+
+Chosse a track to race:
+;SELCARRO
+Vehicle selection:
+
+Player ; choose your vehicle:
+;
+	(0) Back
+;

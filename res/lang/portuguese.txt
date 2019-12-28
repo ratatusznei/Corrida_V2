@@ -1,0 +1,139 @@
+;MENUPRINCIPAL
+Menu Principal
+
+Selecione uma opção:
+	(1) Iniciar novo jogo
+	(2) Recuperar Jogo Salvo
+	(3) Opções
+	(4) Ajuda
+	(5) Sobre
+
+	(0) Fechar jogo
+;MENUSOBRE
+Sobre:
+
+	"Corrida Legal V2"
+	Versão: ;
+	Início do Projeto: 18/10/2016
+	Última modificação: ;
+
+	Jogo desenvolvido como projeto para a disciplina de
+	Linguagem de Programação (EL07C), turma M12
+
+	Professor orientador: Valfredo Pilla Jr.
+	Autor: Fernando Henrique Ratusznei Caetano
+
+;MENUAJUDA
+Ajuda:
+
+Seleione um tópico:
+	(1) Regras
+	(2) Controles
+	(3) Criação de pistas
+
+	(0) Voltar ao Menu Principal
+;REGRAS
+Regras:
+	
+	Um grupo de corredores foi unido para a maior corrida de todos os dias!
+	Você pode guiar um dos 6 corredores nessa aventura, basta selecionar
+	"Iniciar novo jogo" no menu inicial e se espantar com as possibilidades!
+	
+	A corrida tem um total de 3 voltas, sempre que um corredor chegar na
+	linha de chegada ele passa para a próxima volta.
+
+	Mas um aviso antes de começar: cuidado, pois o combústivel utilizado é
+	altamente instável e explode em contato com paredes ou se for molhado.
+	
+	Mais informações em "controles" no menu ajuda
+
+;CONTROLES
+Controles:
+	
+	Para controlar seu carro basta digitar o comando e apertar Enter
+	A caixa das letras não faz diferença
+
+	Comando	Instrução
+Jog. 1	W	Sobe
+	S	Desce
+	D	Acelera
+
+Jog. 2	I	Sobe
+	M	Desce
+	L	Acelera
+
+	Y	Salvar Jogo
+	B	Sair
+
+;CRIARPISTA
+Criação de Pista:
+
+	Na pasta res/materials, seguir o modelo de Pista 1.txt
+	O arquivo pode ser criado em res/user/user_tracks
+	As labels devem ser em CAIXA ALTA
+	Adicionar o nome da pista na lista dentro do arquivo tracks.txt
+
+;BOATLORE
+Seleção de veículos:
+
+Você escolheu o barco da terra!
+
+		Há muito tempo trabalha em jogos de batalha naval como
+	destroyer, contudo estava insatisfeito com seu plano dentário e
+	fugiu para tentar carreira como um navio de turismo, assim como
+	seu primo. Após a morte de um amigo que trabalhava com ele,
+	desistiu de sua carreira e entrou no mundo das corridas ilícitas.
+
+	Especial: Anda na água e navega na terra
+
+	(C) Confirmar?
+;MOTOLORE
+Seleção de veículos:
+
+Você escolheu a moto de luz!
+
+		Após incontáveis anos trabalhando sob a tirania do programa
+	de controle mestre na grade, este programa decidiu fugir e entrar na
+	vida do crime. Após assaltar um banco acabou entrando por acidente
+	na corrida e o dinheiro ainda está caindo de seu porta malas. Não
+	se preocupe, não vai ter papel sujando o chão por muito tempo, pois
+	os espectadores sovinas pegam tudo em segundos!
+
+	Especial: Deixa um rastro de dinheiro que bloqueia o caminho
+
+	(C) Confirmar?
+;BRUXALORE
+Seleção de veículos:
+
+Você escolheu a bruxa!
+
+		Bolacha, a bruxa, vivia feliz em seu bosque encantado,
+	entregando maças envenenadas, enfetiçando os viajantes e preparando
+	poções em seu caldeirão. No entanto, um dia ela foi atingida por uma
+	casa na cabeça e desde então está tendo esse sonho louco onde é 
+	escravida e foçada a correr contra outras pessoas para o
+	entretenimento da elite opressora.
+
+	Especial: Pegue um impulso com as correntes de ar marcadas por '>'
+
+	(C) Confirmar?
+;MENUOPCOES
+Opções:
+
+
+	(1) Alterar a cor das letras para os jogadores ;
+	(2) Modo Noturno ;
+	(3) Alterar Idioma ;
+	
+	(0) Voltar
+;SELPISTA
+Seleção de Pistas:
+
+Escolha uma pista para correr:
+;SELCARRO
+Seleção de veículos:
+	
+Jogador ; escolha seu veículo:
+;
+	(0) Voltar
+;
